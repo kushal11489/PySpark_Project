@@ -6,3 +6,5 @@
 compare it with the Mean of labelled column to check how effective the model is.
 
 * BinaryClassificationEvaluator helps to get area under ROC curve. More the area close to 1, more is the accuracy of the model
+
+* Entropy and Information Gain are the methods used to decide the split in case of "Trees Method"
